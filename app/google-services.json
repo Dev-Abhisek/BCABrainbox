@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1093043506086",
+    "project_id": "bca-brainbox",
+    "storage_bucket": "bca-brainbox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093043506086:android:ae2be7e5b2dbf548549d67",
+        "android_client_info": {
+          "package_name": "com.bcajagn.brainbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093043506086-uk9mgceq14d53a4ef2lst8cljepbtlu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJYT9B_89dXwYmNAL_NEbgza4dndirIvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093043506086-uk9mgceq14d53a4ef2lst8cljepbtlu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
